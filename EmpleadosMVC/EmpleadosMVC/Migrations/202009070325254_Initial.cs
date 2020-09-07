@@ -1,8 +1,8 @@
-﻿namespace EmpleadosMVC.Migrations
+﻿using System;
+using System.Data.Entity.Migrations;
+
+namespace EmpleadosMVC.Migrations
 {
-    using System;
-    using System.Data.Entity.Migrations;
-    
     public partial class Initial : DbMigration
     {
         public override void Up()
@@ -15,6 +15,7 @@
                         Nombre = c.String(),
                         Antiguedad = c.Int(nullable: false),
                         Edad = c.Int(nullable: false),
+                        Categoria = c.String(),
                     })
                 .PrimaryKey(t => t.ID);
             

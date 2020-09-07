@@ -1,8 +1,8 @@
-﻿namespace EmpleadosMVC.Migrations
+﻿using System;
+using System.Data.Entity.Migrations;
+
+namespace EmpleadosMVC.Migrations
 {
-    using System;
-    using System.Data.Entity.Migrations;
-    
     public partial class Categoria : DbMigration
     {
         public override void Up()
