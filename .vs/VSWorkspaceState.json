@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EmpleadosMVC",
+    "\\EmpleadosMVC\\EmpleadosMVC",
+    "\\EmpleadosMVC\\EmpleadosMVC\\Controllers"
   ],
+  "SelectedNode": "\\EmpleadosMVC\\EmpleadosMVC.sln",
   "PreviewInSolutionExplorer": false
 }
