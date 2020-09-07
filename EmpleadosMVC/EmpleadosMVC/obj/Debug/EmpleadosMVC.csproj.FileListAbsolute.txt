@@ -247,6 +247,3 @@ C:\Users\Elkin Ortiz\Source\Repos\elkino7\EmpleadosSOA\EmpleadosMVC\EmpleadosMVC
 C:\Users\Elkin Ortiz\Source\Repos\elkino7\EmpleadosSOA\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.csproj.CopyComplete
 C:\Users\Elkin Ortiz\Source\Repos\elkino7\EmpleadosSOA\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.dll
 C:\Users\Elkin Ortiz\Source\Repos\elkino7\EmpleadosSOA\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.pdb
-C:\Users\Elkin Ortiz\Source\Repos\elkino7\EmpleadosSOA\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.Migrations.Initial.resources
-C:\Users\Elkin Ortiz\Source\Repos\elkino7\EmpleadosSOA\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.csproj.GenerateResource.cache
-C:\Users\Elkin Ortiz\Source\Repos\elkino7\EmpleadosSOA\EmpleadosMVC\EmpleadosMVC\obj\Debug\EmpleadosMVC.Migrations.Categoria.resources
